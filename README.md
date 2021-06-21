@@ -20,7 +20,7 @@ There were total of 48 Vine reviews that were 5 stars.
 ### ![vine5](images/vine5.png)
 
 There were total of 15,553 non-Vine reivews that were 5 stars.
-### ![non-vine5](images/non_vine5.png)
+### ![non-vine5](images/non-vine5.png)
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reivews were 5 stars?
 
